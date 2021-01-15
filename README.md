@@ -1,4 +1,4 @@
-# pandas-challeng3
+# pandas-challenge
 ## Option 2: PyCitySchools
 
 ![Education](Images/education.png)
