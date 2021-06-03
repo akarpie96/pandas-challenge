@@ -7,8 +7,7 @@ Analyzing district-wide standardized test results with the objective of aggregat
 
 
 ### District Summary
-
-
+<img src="/Images/District Summary.PNG" alt="My cool logo"/>
 
 ### School Summary
 
