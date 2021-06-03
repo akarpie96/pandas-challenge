@@ -1,5 +1,9 @@
 # Pandas School Analysis 
 
+## About Pandas
+
+https://pandas.pydata.org/about/
+
 ## Datasets 
 
 * [Schools](/Resources/schools_complete.csv)
