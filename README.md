@@ -1,5 +1,9 @@
 # Pandas School Analysis 
 
+## Datasets 
+
+* [Schools](/Resources/schools_complete.csv)
+* [Students](/Resources/students_complete.csv)
 
 
 ## Background
